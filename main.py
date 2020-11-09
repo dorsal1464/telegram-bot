@@ -7,7 +7,7 @@ import os
 import random
 import re
 
-TOKEN = "1136696739:AAHFcx4o28LSALv3Qo4azHxrg9mgfGtSvTw"
+TOKEN = "TOKEN"
 GREET = "Hello! I\'m Deep Space Insanity Avoidance Bot (DSIABot) and some more unknown shit!\n" + \
         "You can ask for riddles, jokes or just chat around!"
 HELP = "\nList of supported commands:\n" + \
